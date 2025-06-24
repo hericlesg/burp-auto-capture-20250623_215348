@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20250623_215439", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/tpc.googlesyndication.com_20250623_215439/request_001.txt", 
+      "url": "https://tpc.googlesyndication.com:443/sodar/62bHydCX.html", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/tpc.googlesyndication.com_20250623_215439/response_001.txt", 
+      "timestamp": 1750726467531
+    }
+  ], 
+  "host": "tpc.googlesyndication.com", 
+  "total_requests": 1
+}
