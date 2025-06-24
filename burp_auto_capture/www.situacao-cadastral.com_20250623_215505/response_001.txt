@@ -1,0 +1,81 @@
+HTTP/2 200 OK
+Date: Tue, 24 Jun 2025 00:54:25 GMT
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Pragma: no-cache
+Cache-Control: no-cache, must-revalidate
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=m0fY3L3w4%2BbsVElh1HJQ%2BbPx7bpiclr3m9X7By8GQvuTgRcIVcSThnytw1XVwjMZBpOMGU31RFbGrPTXPVCyj0fbP7jQMy7XqrUWYekWPbbjkDRlwp%2Bo1I%2FJOwmneDkiZZlyoGzJiyrm1s4PMQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 954840f76919f181-GRU
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=23273&min_rtt=22798&rtt_var=5094&sent=13&recv=14&lost=0&retrans=0&sent_bytes=4295&recv_bytes=2838&delivery_rate=188164&cwnd=185&unsent_bytes=0&cid=eee1f366a4fd722f&ts=5400&x=0"
+
+<!DOCTYPE html>
+<html>
+    <head>
+        
+        <meta http-equiv="Content-type" content="text/html;charset=utf-8">
+        <meta http-equiv="content-language" content="pt-br">
+        <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="google-play-app" content="br.com.sane.situacaocadastral">
+        <meta name="description" content="Consulta CPF e pesquisa CNPJ. Descubra se estÃ¡ regular, ativo, cancelado, pendente de regularizaÃ§Ã£o, irregular, suspenso, baixada. Confirme e valide informaÃ§Ãµes">
+        <title>Resultado: CPF - ***.286.118-** - Regular</title>
+        <link rel="icon" href="/favicon.png" type="image/x-icon" />
+        <link rel="stylesheet" type="text/css" href="/css/estilo.css">
+        <script type="text/javascript" language="javascript" src="/js/jquery-1.12.4.min.js"></script>
+        <script type="text/javascript" language="javascript" src="/js/jquery.base64.min.js"></script>
+        <script type="text/javascript" language="javascript" src="/js/fprint2.min.js"></script>
+        <script type="text/javascript" language="javascript" src="/js/9957aabb286bafc01239862f3a81197d17507264652829.js"></script>
+                                    
+    </head>
+
+    <body>
+
+        <table id="corpo" align="center" cellpadding="0" cellspacing="0">
+            <tr>
+                <td align="center">
+                    <div id="topo">
+                                                                                                                                <p align="center" style="max-width: 980px; margin: auto;">
+                            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                            <ins class="adsbygoogle" style="display:block; height: 280px;" data-ad-client="ca-pub-0028188661164977" data-ad-slot="2866716277" data-full-width-responsive="true" data-ad-format="horizontal"></ins>
+                            <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+                            </p>
+                                                        <a id="btnVoltar" href="/">Nova Consulta</a>
+                                            </div>
+                </td>
+            </tr>
+            <tr>
+                <td height="100%" align="center">
+                                                <div id="resultado">
+                                <span class="dados documento">***.286.118-**</span>                                <span class="dados nome">Suevelin C. Santos</span>                                                                                                                                                                                                <span class="dados situacao"><span class="vrd">SituaÃ§Ã£o: Regular</span></span>
+                                                                <span class="dados texto"><p>* Sem pendÃªncia cadastral na Receita Federal.</p></span>                                <!--<span class="dados texto">DÃºvidas? Consulte nossa <a href="/conteudo/ajuda.html">ajuda</a> para mais informaÃ§Ãµes!</span>-->
+                            </div>
+                                                        <div id="atencao">** A situaÃ§Ã£o "<u>REGULAR</u>" nÃ£o tem relaÃ§Ã£o <strong>fiscal</strong> ou de <strong>crÃ©dito</strong> **</div><br>
+                                                        <br><span style="padding: 8px 20px 9px 20px; border-radius: 5px; background-color: #FFd7d9; color: #B21E17; display: inline-block; margin-bottom: 8px;"><a href="https://panel.situacaocadastral.com.br/?utm_source=site-resultado&utm_medium=site-link-3&utm_campaign=inicial" rel="nofollow" class="link" title="Consulta de dÃ­vidas e score de CPF ou CNPJ" target="_blank" onclick="clicky.goal('Painel Consultas Resultado 3');">Para consultar dÃ­vidas ou score deste CPF <br>>> <b>Clique Aqui</b> <<</a></span><br>                                                                                            </td>
+            </tr>
+            <tr>
+                <td id="rdlinks">
+                     <a href="/conteudo/duvidas.html">DÃºvidas?</a> | 
+                     <a href="/conteudo/politica-de-privacidade.html">Privacidade</a> | 
+                                          <a href="/cdn-cgi/l/email-protection#5d3b3c31383e32301d2e3429283c3e3c32703e3c393c2e292f3c31733e3230">Contato</a>
+                </td>
+            </tr>
+            <tr>
+                <td id="rodape" title="9 - 0.015">
+                    SituaÃ§Ã£o Cadastral - 2025 - Pessoa FÃ­sica ou JurÃ­dica<br />
+                    Descubra grÃ¡tis a situaÃ§Ã£o cadastral de um CPF ou CNPJ<br />
+                </td>
+            </tr>
+        </table>
+         <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>var tb = document.getElementById('corpo'); const observer = new MutationObserver(function (mutations, observer) {tb.style.height = '';}); observer.observe(tb,{attributes: true,attributeFilter:['style']});</script>
+                    <script async data-id="100536568" src="/2290123dc6f3ab3475.js"></script>
+            <script>try {var clicky_custom = {}; clicky_custom.href = '/cpf-38728611829.html';clicky.init(100536568); } catch (e) {};</script>
+            <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/100536568ns.gif" /></p></noscript>
+            <script async src="https://www.googletagmanager.com/gtag/js?id=G-2B7KNHGMDB"></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-2B7KNHGMDB');</script>
+                
+    </body>
+</html>
