@@ -1,0 +1,23 @@
+POST / HTTP/2
+Host: www.situacao-cadastral.com
+Cookie: USID=9957aabb286bafc01239862f3a81197d; _jsuid=157950902; _heatmaps_g2g_100536568=no; _ga_2B7KNHGMDB=GS2.1.s1750726400$o1$g0$t1750726400$j60$l0$h0; _ga=GA1.1.1911045557.1750726400; __gads=ID=a45dde5954bfa8cd:T=1750726400:RT=1750726400:S=ALNI_Mbuc6OvlMM1n03_dDbnXroQM9YbuA; __gpi=UID=000010d59abe8dcc:T=1750726400:RT=1750726400:S=ALNI_MZdkGDVg87UlALjhQoNHBD4BEdmfw; __eoi=ID=d181fd581e389a92:T=1750726400:RT=1750726400:S=AA-AfjatQgu80EG45W4ON9jAu7c2; FCNEC=%5B%5B%22AKsRol-7imaBh9RxqSazF7nSayYE_AATk3z2uddpBpdI4LJqNQvnHhFKIWTs_3C9Gd0LFR7BpXZWlcZJYf3MAuMov4vWDA2fyYu0uyxGTdlsn0NoCunrfRJ89gdyDXLnwPl9BYQeABm0qAkFIr-7_gHP9K83_GDTzQ%3D%3D%22%5D%5D
+Content-Length: 345
+Cache-Control: max-age=0
+Sec-Ch-Ua: "Not.A/Brand";v="99", "Chromium";v="136"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Windows"
+Accept-Language: en-US,en;q=0.9
+Origin: https://www.situacao-cadastral.com
+Content-Type: application/x-www-form-urlencoded
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: https://www.situacao-cadastral.com/
+Accept-Encoding: gzip, deflate, br
+Priority: u=0, i
+
+doc=38728611829&a799404c43a22d70ea9b11e061c2532b=YzA5NjU4YmY0Y2MxM2FjZmViMThkMTY0YzExMjYyZjh8TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNi4wLjAuMCBTYWZhcmkvNTM3LjM2fGh0dHBzOi8vd3d3LnNpdHVhY2FvLWNhZGFzdHJhbC5jb20vfHx0cnVlfDI1NjB4MTA4MHgyNC4wfDkwMHg5NTJ4MS4wMHwxfDB8ODg1
