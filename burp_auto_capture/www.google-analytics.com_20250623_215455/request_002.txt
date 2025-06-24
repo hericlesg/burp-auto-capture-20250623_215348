@@ -1,0 +1,18 @@
+POST /g/collect?v=2&tid=G-2B7KNHGMDB&gtm=45je56n0h2v9116330591za200&_p=1750726465817&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684204~104684207~104718208~104784387~104784389&cid=1911045557.1750726400&ul=en-us&sr=2560x1080&uaa=&uab=&uafvl=&uamb=0&uam=&uap=Windows&uapv=&uaw=0&are=1&frm=0&pscdl=&_eu=AAAAAAQ&_s=1&sid=1750726400&sct=1&seg=1&dl=https%3A%2F%2Fwww.situacao-cadastral.com%2F&dr=https%3A%2F%2Fwww.situacao-cadastral.com%2F&dt=Resultado%3A%20CPF%20-%20***.286.118-**%20-%20Regular&en=page_view&_ee=1&tfd=6261 HTTP/2
+Host: www.google-analytics.com
+Content-Length: 0
+Sec-Ch-Ua-Platform: "Windows"
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: "Not.A/Brand";v="99", "Chromium";v="136"
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+Sec-Ch-Ua-Mobile: ?0
+Accept: */*
+Origin: https://www.situacao-cadastral.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Sec-Fetch-Storage-Access: active
+Referer: https://www.situacao-cadastral.com/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
