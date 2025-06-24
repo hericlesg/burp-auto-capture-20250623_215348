@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20250623_215431", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/pagead2.googlesyndication.com_20250623_215431/request_001.txt", 
+      "url": "https://pagead2.googlesyndication.com:443/pagead/s/cookie_push_onload.html", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/pagead2.googlesyndication.com_20250623_215431/response_001.txt", 
+      "timestamp": 1750726467111
+    }
+  ], 
+  "host": "pagead2.googlesyndication.com", 
+  "total_requests": 1
+}
