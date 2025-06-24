@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20250623_215503", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/s0.2mdn.net_20250623_215503/request_001.txt", 
+      "url": "https://s0.2mdn.net:443/sadbundle/6752622163140267692/index.html?ev=01_253", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/s0.2mdn.net_20250623_215503/response_001.txt", 
+      "timestamp": 1750726467935
+    }
+  ], 
+  "host": "s0.2mdn.net", 
+  "total_requests": 1
+}
