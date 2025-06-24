@@ -1,0 +1,39 @@
+{
+  "capture_timestamp": "20250623_215431", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/fundingchoicesmessages.google.com_20250623_215431/request_001.txt", 
+      "url": "https://fundingchoicesmessages.google.com:443/el/AGSKWxW4YKs0JZ8P1_W9H82jSIndsIxLv1if_jqWwZYtr5xv4xcu_vdtgFLXlHkItRy72FW5cNGMZThRAP3JwaaRt3vvCPN013s_Qrlm743C7I0yt5EdyxfibbjyboDa4gx-fi-S5AtLcw==", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/fundingchoicesmessages.google.com_20250623_215431/response_001.txt", 
+      "timestamp": 1750726468259
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/fundingchoicesmessages.google.com_20250623_215431/request_002.txt", 
+      "url": "https://fundingchoicesmessages.google.com:443/el/AGSKWxW4YKs0JZ8P1_W9H82jSIndsIxLv1if_jqWwZYtr5xv4xcu_vdtgFLXlHkItRy72FW5cNGMZThRAP3JwaaRt3vvCPN013s_Qrlm743C7I0yt5EdyxfibbjyboDa4gx-fi-S5AtLcw==", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/fundingchoicesmessages.google.com_20250623_215431/response_002.txt", 
+      "timestamp": 1750726468944
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/fundingchoicesmessages.google.com_20250623_215431/request_003.txt", 
+      "url": "https://fundingchoicesmessages.google.com:443/el/AGSKWxW4YKs0JZ8P1_W9H82jSIndsIxLv1if_jqWwZYtr5xv4xcu_vdtgFLXlHkItRy72FW5cNGMZThRAP3JwaaRt3vvCPN013s_Qrlm743C7I0yt5EdyxfibbjyboDa4gx-fi-S5AtLcw==", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/fundingchoicesmessages.google.com_20250623_215431/response_003.txt", 
+      "timestamp": 1750726468975
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/fundingchoicesmessages.google.com_20250623_215431/request_004.txt", 
+      "url": "https://fundingchoicesmessages.google.com:443/el/AGSKWxW4YKs0JZ8P1_W9H82jSIndsIxLv1if_jqWwZYtr5xv4xcu_vdtgFLXlHkItRy72FW5cNGMZThRAP3JwaaRt3vvCPN013s_Qrlm743C7I0yt5EdyxfibbjyboDa4gx-fi-S5AtLcw==", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/fundingchoicesmessages.google.com_20250623_215431/response_004.txt", 
+      "timestamp": 1750726469031
+    }
+  ], 
+  "host": "fundingchoicesmessages.google.com", 
+  "total_requests": 4
+}
