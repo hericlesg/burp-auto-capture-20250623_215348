@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20250623_215447", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.situacao-cadastral.com_20250623_215447/request_001.txt", 
+      "url": "https://www.situacao-cadastral.com:443/", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/www.situacao-cadastral.com_20250623_215447/response_001.txt", 
+      "timestamp": 1750726465482
+    }
+  ], 
+  "host": "www.situacao-cadastral.com", 
+  "total_requests": 1
+}
