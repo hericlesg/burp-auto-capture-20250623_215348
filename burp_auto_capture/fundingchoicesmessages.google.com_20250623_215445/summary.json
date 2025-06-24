@@ -1,0 +1,63 @@
+{
+  "capture_timestamp": "20250623_215445", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/fundingchoicesmessages.google.com_20250623_215445/request_001.txt", 
+      "url": "https://fundingchoicesmessages.google.com:443/el/AGSKWxW4YKs0JZ8P1_W9H82jSIndsIxLv1if_jqWwZYtr5xv4xcu_vdtgFLXlHkItRy72FW5cNGMZThRAP3JwaaRt3vvCPN013s_Qrlm743C7I0yt5EdyxfibbjyboDa4gx-fi-S5AtLcw==", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/fundingchoicesmessages.google.com_20250623_215445/response_001.txt", 
+      "timestamp": 1750726468259
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/fundingchoicesmessages.google.com_20250623_215445/request_002.txt", 
+      "url": "https://fundingchoicesmessages.google.com:443/el/AGSKWxW4YKs0JZ8P1_W9H82jSIndsIxLv1if_jqWwZYtr5xv4xcu_vdtgFLXlHkItRy72FW5cNGMZThRAP3JwaaRt3vvCPN013s_Qrlm743C7I0yt5EdyxfibbjyboDa4gx-fi-S5AtLcw==", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/fundingchoicesmessages.google.com_20250623_215445/response_002.txt", 
+      "timestamp": 1750726468944
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/fundingchoicesmessages.google.com_20250623_215445/request_003.txt", 
+      "url": "https://fundingchoicesmessages.google.com:443/el/AGSKWxW4YKs0JZ8P1_W9H82jSIndsIxLv1if_jqWwZYtr5xv4xcu_vdtgFLXlHkItRy72FW5cNGMZThRAP3JwaaRt3vvCPN013s_Qrlm743C7I0yt5EdyxfibbjyboDa4gx-fi-S5AtLcw==", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/fundingchoicesmessages.google.com_20250623_215445/response_003.txt", 
+      "timestamp": 1750726468975
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/fundingchoicesmessages.google.com_20250623_215445/request_004.txt", 
+      "url": "https://fundingchoicesmessages.google.com:443/el/AGSKWxW4YKs0JZ8P1_W9H82jSIndsIxLv1if_jqWwZYtr5xv4xcu_vdtgFLXlHkItRy72FW5cNGMZThRAP3JwaaRt3vvCPN013s_Qrlm743C7I0yt5EdyxfibbjyboDa4gx-fi-S5AtLcw==", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/fundingchoicesmessages.google.com_20250623_215445/response_004.txt", 
+      "timestamp": 1750726469031
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/fundingchoicesmessages.google.com_20250623_215445/request_005.txt", 
+      "url": "https://fundingchoicesmessages.google.com:443/el/AGSKWxW4YKs0JZ8P1_W9H82jSIndsIxLv1if_jqWwZYtr5xv4xcu_vdtgFLXlHkItRy72FW5cNGMZThRAP3JwaaRt3vvCPN013s_Qrlm743C7I0yt5EdyxfibbjyboDa4gx-fi-S5AtLcw==", 
+      "sequence_number": 5, 
+      "response_file": "burp_auto_capture/fundingchoicesmessages.google.com_20250623_215445/response_005.txt", 
+      "timestamp": 1750726469038
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/fundingchoicesmessages.google.com_20250623_215445/request_006.txt", 
+      "url": "https://fundingchoicesmessages.google.com:443/el/AGSKWxW4YKs0JZ8P1_W9H82jSIndsIxLv1if_jqWwZYtr5xv4xcu_vdtgFLXlHkItRy72FW5cNGMZThRAP3JwaaRt3vvCPN013s_Qrlm743C7I0yt5EdyxfibbjyboDa4gx-fi-S5AtLcw==", 
+      "sequence_number": 6, 
+      "response_file": "burp_auto_capture/fundingchoicesmessages.google.com_20250623_215445/response_006.txt", 
+      "timestamp": 1750726469130
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/fundingchoicesmessages.google.com_20250623_215445/request_007.txt", 
+      "url": "https://fundingchoicesmessages.google.com:443/el/AGSKWxXT-sWIk7eTojgnncpGwuRuGjHbaYmqw4EeEuqRt6FQ4ajupe05M6gwPQipsdYBPGKGg9A5nLuTbjS6hRJCss9dcHCw18yeBxhcjHn3A4EcX3Vwe2wCwtqdDTCFLGKAs_P_ICzd8g==", 
+      "sequence_number": 7, 
+      "response_file": "burp_auto_capture/fundingchoicesmessages.google.com_20250623_215445/response_007.txt", 
+      "timestamp": 1750726469130
+    }
+  ], 
+  "host": "fundingchoicesmessages.google.com", 
+  "total_requests": 7
+}
