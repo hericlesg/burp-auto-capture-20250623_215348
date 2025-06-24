@@ -1,0 +1,20 @@
+GET /pagead/ads?client=ca-pub-0028188661164977&output=html&h=90&slotname=2866716277&adk=3737428494&adf=3418059299&pi=t.ma~as.2866716277&w=900&abgtt=9&fwrn=4&fwrnh=100&lmt=1750726466&rafmt=2&format=900x90&url=https%3A%2F%2Fwww.situacao-cadastral.com%2F&fwr=0&fwrattr=true&rh=280&rpe=1&resp_fmts=2&wgl=1&uach=WyJXaW5kb3dzIiwiIiwiIiwiIiwiIixudWxsLDAsbnVsbCwiIixudWxsLDBd&dt=1750726466067&bpp=3&bdt=574&idt=92&shv=r20250617&mjsv=m202506170101&ptt=9&saldr=aa&abxe=1&cookie=ID%3Da45dde5954bfa8cd%3AT%3D1750726400%3ART%3D1750726400%3AS%3DALNI_Mbuc6OvlMM1n03_dDbnXroQM9YbuA&gpic=UID%3D000010d59abe8dcc%3AT%3D1750726400%3ART%3D1750726400%3AS%3DALNI_MZdkGDVg87UlALjhQoNHBD4BEdmfw&eo_id_str=ID%3Dd181fd581e389a92%3AT%3D1750726400%3ART%3D1750726400%3AS%3DAA-AfjatQgu80EG45W4ON9jAu7c2&correlator=3129452593930&frm=20&pv=2&u_tz=-180&u_his=4&u_h=1080&u_w=2560&u_ah=1040&u_aw=2560&u_cd=24&u_sd=1&dmc=8&adx=0&ady=10&biw=900&bih=952&scr_x=0&scr_y=0&eid=95333409%2C95353387%2C95362436%2C95362656%2C95364338%2C95344790%2C95359266%2C95364336%2C95364390&oid=2&pvsid=6688652865060737&tmod=1849959313&uas=0&nvt=1&ref=https%3A%2F%2Fwww.situacao-cadastral.com%2F&fc=896&brdim=63%2C0%2C63%2C0%2C2560%2C0%2C916%2C1047%2C900%2C952&vis=1&rsz=%7C%7CeE%7C&abl=CS&pfx=0&fu=128&bc=31&bz=1.02&td=1&tdf=2&psd=W251bGwsW251bGwsbnVsbCxudWxsLCJkZXByZWNhdGVkX2thbm9uIl0sbnVsbCwxXQ..&nt=1&ifi=1&uci=a!1&fsb=1&dtd=98 HTTP/2
+Host: googleads.g.doubleclick.net
+Cookie: IDE=AHWqTUnBsxNo9io7obZt32X0jylpFNbvyaJ5CTbX61OTyybbr-ImAJkUZBT7kh99F_E; ar_debug=1; receive-cookie-deprecation=1
+Sec-Ch-Ua: "Not.A/Brand";v="99", "Chromium";v="136"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Windows"
+Accept-Language: en-US,en;q=0.9
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+Sec-Browsing-Topics: ();p=P0000000000000000000000000000000
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+X-Client-Data: CLbuygE=
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Sec-Fetch-Storage-Access: active
+Referer: https://www.situacao-cadastral.com/
+Accept-Encoding: gzip, deflate, br
+Priority: u=0, i
+
