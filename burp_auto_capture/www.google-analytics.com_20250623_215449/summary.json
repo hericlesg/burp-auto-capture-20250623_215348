@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20250623_215449", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.google-analytics.com_20250623_215449/request_001.txt", 
+      "url": "https://www.google-analytics.com:443/g/collect?v=2&tid=G-2B7KNHGMDB&gtm=45je56k1v9116330591za200&_p=1750726399143&gcd=13l3l3l3l1l1&npa=0&dma=0&tcfd=10000&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104718208&cid=1911045557.1750726400&ul=en-us&sr=2560x1080&uaa=&uab=&uafvl=&uamb=0&uam=&uap=Windows&uapv=&uaw=0&are=1&frm=0&pscdl=&_eu=AAAAAAQ&_s=2&sid=1750726400&sct=1&seg=0&dl=https%3A%2F%2Fwww.situacao-cadastral.com%2F&dt=Consulta%20CNPJ%20-%20Consulta%20CPF%20-%20Gr%C3%A1tis&en=user_engagement&_et=8056&tfd=68219", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/www.google-analytics.com_20250623_215449/response_001.txt", 
+      "timestamp": 1750726465989
+    }
+  ], 
+  "host": "www.google-analytics.com", 
+  "total_requests": 1
+}
